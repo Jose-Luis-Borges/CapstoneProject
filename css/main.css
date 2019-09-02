@@ -1,3 +1,8 @@
+/* Ideas and styling based on ClearlyDecoded.com Yaakov Chaikin personal site. */
+/* Deleted unnecessary code, added some new styling and changed the formatting */
+/* of some items - increased consistency (eg all links are now the same color) */ 
+/* and passes all validation tests (just a few, non-critical, warnings).       */
+   
 /* GENERAL */
 * {
     margin: 0;
